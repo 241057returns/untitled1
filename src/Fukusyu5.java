@@ -6,7 +6,7 @@ public class Fukusyu5 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int age = Integer.parseInt(br.readLine());
-        if (age >= 64) {
+        if (age >= 65) {
             System.out.println("シニア");
         } else if (age >= 20) {
             System.out.println("大人");
