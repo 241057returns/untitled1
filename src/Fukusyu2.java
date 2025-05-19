@@ -1,4 +1,4 @@
-public class Fukushu2 {
+public class Fukusyu2 {
     public static void main(String[] args) {
         int num1 = 50;
         double num2 = 20.0;
