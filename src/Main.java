@@ -7,6 +7,6 @@ public class Main {
         //TIP <shortcut actionId="Debug"/> を押してコードのデバッグを開始します。<icon src="AllIcons.Debugger.Db_set_breakpoint"/> ブレークポイントを 1 つ設定しましたが、
         // <shortcut actionId="ToggleLineBreakpoint"/> を押すといつでも他のブレークポイントを追加できます。
         System.out.println("囚人番号241057-R2A2-20");
-
+        System.out.println("sout");
     }
 }
