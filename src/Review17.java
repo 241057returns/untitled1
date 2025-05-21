@@ -12,6 +12,6 @@ public class Review17 {
                 sum += j;
             }
         }
-        System.out.println(sum);
+        System.out.println("結果: " + sum);
     }
 }

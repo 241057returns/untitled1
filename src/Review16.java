@@ -10,6 +10,6 @@ public class Review16 {
         for (int j = 1; j <= num; j++) {
             sum += j;
         }
-        System.out.println(sum);
+        System.out.println("結果: " + sum);
     }
 }

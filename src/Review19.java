@@ -10,6 +10,6 @@ public class Review19 {
         for (int i = 1; i <= num; i++) {
             factorial *= i;
         }
-        System.out.println(factorial);
+        System.out.println("結果: " + factorial);
     }
 }
