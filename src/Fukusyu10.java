@@ -7,7 +7,9 @@ public class Fukusyu10  {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(br.readLine());
         int sum = 0;
-        for (int j = 1; j <= num; j++) {
+        int j = 1;
+        while (j <= num) {
+            j =+ 1;
             if (j % 2 == 0) {
                 sum += j;
             }
