@@ -1,19 +1,19 @@
+package fukusyu;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Fukusyu10  {
+public class Fukusyu6 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(br.readLine());
-        int sum = 0;
-        int j = 1;
-        while (j <= num) {
-            j =+ 1;
-            if (j % 2 == 0) {
-                sum += j;
-            }
+        if(0 == num % 3 && 0 == num % 5){
+            System.out.println("FizzBuzz");
+        }else if(0 == num % 3){
+            System.out.println("Fizz");
+        }else if(0 == num % 5){
+            System.out.println("Buzz");
         }
-        System.out.println("結果: " + sum);
     }
 }

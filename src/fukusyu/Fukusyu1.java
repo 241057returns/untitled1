@@ -1,3 +1,5 @@
+package fukusyu;
+
 public class Fukusyu1 {
     public static void main(String[] args) {
         int num1 = 10;

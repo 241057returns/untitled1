@@ -1,4 +1,4 @@
-
+package fukusyu;
 
 public class Fukusyu8 {
     public static void main(String[] args) {
