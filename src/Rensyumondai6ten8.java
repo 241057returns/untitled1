@@ -19,6 +19,6 @@ public class Rensyumondai6ten8 {
     public static void showMondokoro() throws IOException {
         System.out.println("飛車さん、角さん。もういいでしょう。");
         System.out.println("<この紋所が目にはいらぬか！");
-        doTogame();//もう一度、とがめる
+        doTogame();//もう一度、とがめる.
     }
 }
