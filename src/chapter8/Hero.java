@@ -1,6 +1,7 @@
 package chapter8;
 
 public class Hero {
+   //
    String name;
    int hp;
    int level;

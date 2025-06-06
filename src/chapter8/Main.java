@@ -2,6 +2,7 @@ package chapter8;
 
 public class Main {
     public static void main(String[] args) {
+        //
         //実態化 　/*　Hero h = new Hero();の様な書き方はオブジェクト指向において、滅茶苦茶使うので覚えよう（提案）*/
         //実体化　＝　インスタンス化　というらしい
         Hero h = new Hero();
