@@ -7,7 +7,6 @@ public class Review4 {
         String str = "88" + "88";
         double PI = 3.141592;
         PI = 3.14;
-
         float circ = (float)3.14;
         long a = 1000000000;
         boolean flag = true;
