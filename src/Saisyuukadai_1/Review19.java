@@ -1,17 +1,13 @@
-package Saisyuukadai_1;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 public class Review19 {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int num = Integer.parseInt(br.readLine());
+    public static void main(String[] args) {
+        int num = 5;
         int factorial = 1;
-        for (int i = 1; i <= num; i++) {
-            factorial *= i;
+        int i = 1;
+
+        while (i <= num) {
+            factorial = factorial * i;
+            i++;
         }
-        System.out.println("結果: " + factorial);
+        System.out.println("結果:" + factorial);
     }
 }

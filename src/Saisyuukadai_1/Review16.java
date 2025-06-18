@@ -1,17 +1,13 @@
-package Saisyuukadai_1;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 public class Review16 {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int num = Integer.parseInt(br.readLine());
+    public static void main(String[] args) { 
+        int num = 10;
         int sum = 0;
-        for (int j = 1; j <= num; j++) {
-            sum += j;
+        int i = 1;
+
+        while (i <= num) { 
+            sum = sum + i;
+            i++;
         }
-        System.out.println("結果: " + sum);
+        System.out.println("結果:" + sum);
     }
 }
