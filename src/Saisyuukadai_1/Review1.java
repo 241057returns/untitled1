@@ -8,4 +8,4 @@ public class Review1 {
         System.out.println("洗濯日和です。外に干しても大丈夫そうです。");
         System.out.println("文字は','文字列は\"で囲みましょう。");
     }
-}
+}//

@@ -8,4 +8,4 @@ public class Review23 {
         }
         System.out.println("結果:" + factorial);
     }
-}
+}//

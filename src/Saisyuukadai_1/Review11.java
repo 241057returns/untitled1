@@ -7,4 +7,4 @@ public class Review11 {
             System.out.println("この数は10で割り切れない値です。");
         }
     }
-}
+}//

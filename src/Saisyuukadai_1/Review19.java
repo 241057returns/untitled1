@@ -10,4 +10,4 @@ public class Review19 {
         }
         System.out.println("結果:" + factorial);
     }
-}
+}//

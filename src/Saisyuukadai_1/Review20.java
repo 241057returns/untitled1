@@ -8,4 +8,4 @@ public class Review20 {
         }
         System.out.println("結果:" + sum);
     }
-}
+}//

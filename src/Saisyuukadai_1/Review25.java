@@ -10,4 +10,4 @@ public class Review25 {
         }
         System.out.println("結果:" + sum);
     }
-}
+}//
