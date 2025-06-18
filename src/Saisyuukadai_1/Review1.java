@@ -6,6 +6,6 @@ public class Review1 {
         System.out.println("今日の天気は\t晴れです。");
         System.out.print("今日は一日\n");
         System.out.println("洗濯日和です。外に干しても大丈夫そうです。");
-        System.out.println("文字は','文字列は\"で囲みましょう。");
+        System.out.println("文字は'文字列は\"で囲みましょう。");
     }
 }//
