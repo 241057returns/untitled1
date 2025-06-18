@@ -12,4 +12,4 @@ public class Review26 {
         System.out.println("探索した値:" + target);
         System.out.println("一致した数:" + count);
     }
-}
+}//

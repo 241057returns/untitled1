@@ -11,4 +11,4 @@ public class Review7 {
         System.out.println("5" + (6 * 4 + 7) + 10 / 2);
         System.out.println((3 + 4) * 2 + "20" + 12 / (4 + 2));
     }
-}
+}//

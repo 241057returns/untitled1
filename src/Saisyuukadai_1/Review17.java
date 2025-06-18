@@ -12,4 +12,4 @@ public class Review17 {
         }
         System.out.println("結果:" + sum);
     }
-}
+}//

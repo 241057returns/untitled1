@@ -7,4 +7,4 @@ public class Review10 {
             System.out.println("この数は正の数ではありません。");
         }
     }
-}
+}//

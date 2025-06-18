@@ -11,4 +11,4 @@ public class Review12 {
             System.out.println("無効な年齢です。");
         }
     }
-}
+}//

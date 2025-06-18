@@ -14,4 +14,4 @@ public class Review9 {
         System.out.println(age + "歳の" + inputName + "さん。"); 
         System.out.println("こんにちは。"); 
     }
-}
+}//
